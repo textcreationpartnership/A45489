@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great duty of thankfulness a sermon preach'd at St. Pauls Covent-Graden, December 2d, 1697, being the day of thanksgiving for the peace / by John Hancock, D.D., Chaplain to His Grace the Duke of Bedford ; published at the request of some of the parishioners.</title>
+            <author>Hancocke, John, d. 1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45489</idno>
+            <idno type="STC">Wing H641</idno>
+            <idno type="STC">ESTC R43231</idno>
+            <idno type="EEBO-CITATION">27057955</idno>
+            <idno type="OCLC">ocm 27057955</idno>
+            <idno type="VID">109935</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109935)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1719:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great duty of thankfulness a sermon preach'd at St. Pauls Covent-Graden, December 2d, 1697, being the day of thanksgiving for the peace / by John Hancock, D.D., Chaplain to His Grace the Duke of Bedford ; published at the request of some of the parishioners.</title>
+                  <author>Hancocke, John, d. 1728.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, print show-through, with loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thanksgiving sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109935:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Great</hi> DUTY <hi>of Thankfulneſs.</hi>
+            </p>
+            <p>A SERMON PREACH'D at St.<hi>Pauls Covent-Garden,</hi> December 2d. 1697. BEING THE Day of Thankſgiving FOR THE PEACE.</p>
+            <p>By <hi>JOHN HANCOCK,</hi> D. D. Chaplain to his Grace the Duke of <hi>Bedford.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed at the Requeſt of ſome of the Pariſhioners.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jonathan Robinſon</hi> at the <hi>Golden Lion</hi> in St. <hi>Paul</hi>'s Church-Yard. 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:109935:2"/>
+            <pb n="1" facs="tcp:109935:2"/>
+            <head>
+               <hi>A</hi> Thanksgiving Sermon <hi>ON ROM. I. 21.</hi> Becauſe that when they knew God, they glorified him not as God; neither were thankful, but became vain in their Imaginations, and their fooliſh Hearts was darkened.</head>
+            <p>THESE Words, as appears from the Context, were ſpoken by the Apo<g ref="char:EOLhyphen"/>ſtle, of the Antient Heathen. The Apoſtle tells us, that even They had ſo much Knowledge of God, as would render them wholly inexcuſable, while they indulg'd them<g ref="char:EOLhyphen"/>ſelves in their vain Imaginations, and unnatu<g ref="char:EOLhyphen"/>ral Luſts: <hi>They knew God, yet they glorified him not as God, neither were thankful.</hi> They
+<pb n="2" facs="tcp:109935:3"/>knew there was a great and ſupream Gover<g ref="char:EOLhyphen"/>nour, that he was good and bountiful, and the Author of all the good things they en<g ref="char:EOLhyphen"/>joy'd; yet they gave him not the Glory of his Goodneſs; they were unthankful for his Mercies.</p>
+            <p>And if Unthankfulneſs were ſo great a Crime in the Heathen, who had comparative<g ref="char:EOLhyphen"/>ly but a dark Knowledge of God to what we have: How much greater will it be to us, who live under the clear light of the Go<g ref="char:EOLhyphen"/>ſpel, who have ſuch clear and full Revelations of God's Nature and Providence, as well as ſuch large Experience of his Goodneſs?</p>
+            <p>My Deſign in ſpeaking from theſe Words, does not require I ſhould take any further notice of the Context. 'Tis ſufficient that the Words as they lye before us, eaſily af<g ref="char:EOLhyphen"/>ford us this plain Propoſition, which I de<g ref="char:EOLhyphen"/>ſign to lay as the Foundation of my preſent Diſcourſe.</p>
+            <p>That Thankfulneſs to God for his Mer<g ref="char:EOLhyphen"/>cies, is one conſiderable Part of that Glory that is due to God from us his Creatures: When as the Heathen were unthankful to
+<pb n="3" facs="tcp:109935:3"/>God, they did not glorify him as God.</p>
+            <p>Glorifying God in the ſenſe of the Text, is the ſolemn Acknowledgments we pay to the Excellencies and Perfections (to the re<g ref="char:EOLhyphen"/>al Glory) of the Divine Nature.</p>
+            <p>The ſolemn Acknowledgments we pay to theſe, are chiefly by Praiſing of him, and by Praying, and Giving Thanks to him. The firſt of theſe, that of Praiſe, reſpects the Ex<g ref="char:EOLhyphen"/>cellencies and Perfections of God, as they are in himſelf: The other two reſpect chiefly the Goodneſs and Mercy of God, as extend<g ref="char:EOLhyphen"/>ed to us.</p>
+            <p>There are ſome things, in which this laſt way of glorifying God by an unfeigned Thankfulneſs, ſeems to have the advantage of both the other, and therefore to be more acceptable to God, and neceſſary for us.</p>
+            <p>This ſeems to be the moſt free and volun<g ref="char:EOLhyphen"/>tary; there is leaſt of force upon the Spirit of Man in the exerciſe of it: Let a Man's Diſpo<g ref="char:EOLhyphen"/>ſition as to Religion be what it will, if he do but conſider the mighty Power and Wiſdom declared in the Works of Creation and Provi<g ref="char:EOLhyphen"/>dence, he can ſcarce withhold himſelf from
+<pb n="4" facs="tcp:109935:4"/>admiring and Praiſing God. Thus we read that <hi>Galen</hi> could not forbear to do it, when he took notice of the curious Diſpoſition and Uſe of the Parts of Living Creatures. So 'tis no wonder if Men, when they are in Want and Miſery, make their Applications to the Divine Mercy, by earneſt Prayer; the Extre<g ref="char:EOLhyphen"/>mity of their Afflictions even forces them to it. But the very occaſion of Thankfulneſs ſup<g ref="char:EOLhyphen"/>poſes Men under no preſent neceſſity of making their Acknowledgments to God. There may be a ſort of Selfiſhneſs in our Prayers for what we want, but 'tis pure Re<g ref="char:EOLhyphen"/>ſpect to God that makes us thankfully ac<g ref="char:EOLhyphen"/>knowledge the Goodneſs of God in what we already have. And therefore we ſee by ſad experience, that this is more rarely found than the other. Tho' many that can be impor<g ref="char:EOLhyphen"/>tunate enough under their Wants, when things go well with them, are ſo far from be<g ref="char:EOLhyphen"/>ing thankful, that they grow wanton, and a<g ref="char:EOLhyphen"/>buſe the good things that God hath given them to his Diſhonour.</p>
+            <p>And thus it appears that one of the moſt genuine and acceptible Ways of glorifying
+<pb n="5" facs="tcp:109935:4"/>God, is by giving Thanks to him for his Mercies.</p>
+            <p>In my diſcourſing on this Subject, I ſhall enquire,
+<list>
+                  <item>I. Into the Extent of this Thankfulneſs.</item>
+                  <item>II. How it ought to be expreſſed.</item>
+                  <item>III. What Motives ſhould induce us to it.</item>
+               </list>
+            </p>
+            <p>And where it may be pertinent, I ſhall con<g ref="char:EOLhyphen"/>der theſe things with a ſpecial Reſpect to the Preſent Occaſion.</p>
+            <p n="1">1. Then in general we ought according to the Apoſtle's Exhortation, <hi>in every thing to give Thanks.</hi> Thankfulneſs for what we have, is always requiſite to accompany our Prayers for what we want.</p>
+            <p>But on ſuch Days and Occaſions as theſe, Thankſgiving ſhould make up the beſt Part of our Devotions: And our Hearts ought now particularly to be tun'd to that chearful Key.</p>
+            <p>We ſhould eſpecially indeed give Thanks for Spiritual Mercies, ſaying with the Apoſtle,
+<pb n="6" facs="tcp:109935:5"/>
+               <hi>Bleſſed be God, and the Father of our Lord Jeſus Chriſt, who hath bleſſed us with all Spi<g ref="char:EOLhyphen"/>ritual Bleſſings in heavenly places in Chriſt.</hi>
+            </p>
+            <p>But we ſhould not forget his Temporal Favours: Eſpecially when ſuch emergent Oc<g ref="char:EOLhyphen"/>caſions as theſe call ſo loud upon us for our moſt unfeigned Thankfulneſs. When that God who (that I may uſe the Words of the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>Pſ.</hi> 29.<hi>ult.</hi>) hath all along this War, <hi>gi<g ref="char:EOLhyphen"/>ven ſtrength</hi> unto us <hi>his People,</hi> hath now a length given <hi>us the Bleſſing of Peace.</hi>
+            </p>
+            <p>Nor ſhould we only give Thanks for our ſelves, but others too. The Apoſtle exhort that <hi>Supplications and Prayers, Interceſſions, and giving of Thanks, be made for all Men, for Kings, and all that are in Authority.</hi> Methink we cannot but upon this Occaſion congratulate the Happineſs of thoſe our Neighbor Nations, whoſe Countries are now deliver'd from being any longer the Seat of this waſting War. We have indeed in this our Iſland <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a kind of continual Peace in the midſt of Wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> But 'twas ſad with them. As therefore before we could not but extend our Pity toward them, now we ought to rejoyce with them</p>
+            <pb n="7" facs="tcp:109935:5"/>
+            <p>And here likewiſe there is a particular Ac<g ref="char:EOLhyphen"/>knowledgment due to the good Providence of God, which hath ſtill attended His Ma<g ref="char:EOLhyphen"/>jeſty, in the midſt of ſo many great and ap<g ref="char:EOLhyphen"/>parent Dangers: But in this we have ſo great and near an Intereſt, that it is indeed to give Thanks for our ſelves.</p>
+            <p>Again; As Thankfulneſs ſhould be a great Part of the buſineſs of our Lives; ſo extra<g ref="char:EOLhyphen"/>ordinary and remarkable Deliverances require an extraordinary more publick and ſolemn Thankfulneſs. And this is the buſineſs of this Day. The Occaſion of it is very great.</p>
+            <p>When God hath made Wars to ceaſe in all this our Part of the World: When he hath given us, ſo much beyond the Expectation of ſome of us, an honourable, advantageous, and we hope a laſting Peace: When after all the Toils and Hazards, of this long and tedious War, he bath brought Home our gracious Soveraign, in Safety and with Honour. In a word, now we have, what lately was the utmoſt we could wiſh for, have we not rea<g ref="char:EOLhyphen"/>ſon at this time to give all Religious and de<g ref="char:EOLhyphen"/>cent Teſtimonies of our Joy and Thankful<g ref="char:EOLhyphen"/>neſs?</p>
+            <pb n="8" facs="tcp:109935:6"/>
+            <p>The ſecond Thing I propoſed to ſpeak of is, how it ought to be expreſſed.</p>
+            <p>And it ſhould appear,
+<list>
+                  <item>1. By the Eſteem we have of God's Mer<g ref="char:EOLhyphen"/>cies.</item>
+                  <item>2. By our Acknowledgments of the ſame.</item>
+                  <item>3. By the ſuitable Returns we make to them.</item>
+               </list>
+            </p>
+            <p n="1">1. By the Eſteem we have of them.</p>
+            <p>The Mercies of God are very great it themſelves. They are ſtiled by the Apoſtle, <hi>Rom. 2. The riches of his Goodneſs:</hi> But they will appear much greater if we conſider, how ill we deſerve from God, and how little 'tis we have reaſon to expect from him.</p>
+            <p>When therefore we actually diſeſteem hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mercies, or when we interpretatively do ſo by carrying our ſelves ſo under them, as ſhe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we make light of 'em, then we offer an high Affront to God, and bring great guilt upon our ſelves.</p>
+            <p>I wiſh there were none among us, that were guilty of diſ-eſteeming and deſpiſing
+<pb n="9" facs="tcp:109935:6"/>the Mercy of this Day. Too many I fear there are who were too ready to rejoyce in the Succeſs of our Enemies, if not to ſide with them. And now we have a Peace, they ſcarce think it a Bleſſing, and are ſo far from rejoycing in it, that they rather grumble at it. They are ſo enamour'd on ſome Schemes they have formed to themſelves, that they ſeem to have forgotten the Duty they owe to the Publick Welfare of their Country.</p>
+            <p n="2">2. Another Sign of a Thankful Heart, is a due Acknowledgment of God's Mercies.</p>
+            <p>This requires that we ſhould look upon'em as coming from the hand of God. The Atheiſt that denies the Being of God, or the Epicure<g ref="char:EOLhyphen"/>an that denies his Providence, as if it were be<g ref="char:EOLhyphen"/>low him to trouble himſelf with this lower World, will never pay this Debt of Thank<g ref="char:EOLhyphen"/>fulneſs. Thoſe are likewiſe here to blame, that look ſo much at the Means and Inſtruments, that they forget God, the Author of Publick Bleſſings. We read of ſome that (as the Prophet ſpeaks) ſacrificed to their own Nets, and burnt Incenſe to their own Drags. We are too apt to do ſomething like it, when we
+<pb n="10" facs="tcp:109935:7"/>ſo much vaunt of the Strength of our Navy, and the Valour of our Engliſh Souldiers.</p>
+            <p>Thoſe that on this Occaſion, have ſo brave<g ref="char:EOLhyphen"/>ly defended their Native Country, may they have all due Honour both of Eſteem and Re<g ref="char:EOLhyphen"/>quital, and may their Names be had in ever<g ref="char:EOLhyphen"/>laſting Remembrance.</p>
+            <p>And particularly there is a very great Ac<g ref="char:EOLhyphen"/>knowledgment due to the Courage and Con<g ref="char:EOLhyphen"/>duct of our Gracious Soveraign, the great In<g ref="char:EOLhyphen"/>ſtrument of this happy Peace. When he hath the Publick Teſtimony of all <hi>Europe,</hi> if we for whom more immediately, he hath ſo long, and ſo often ſacrificed his Eaſe, and ex<g ref="char:EOLhyphen"/>poſed his Perſon; if we, I ſay, are behind o<g ref="char:EOLhyphen"/>thers in our Acknowledgments, we are wretch<g ref="char:EOLhyphen"/>edly ungrateful.</p>
+            <p>But ſtill as our Gracious Soveraign in His Royal Proclamation, for the keeping of this Day, adores the Divine Providence and Goodneſs, in bringing to paſs this honoura<g ref="char:EOLhyphen"/>ble Peace, ſo ſhould we from his Example learn to do ſo. And the Reſult of all out Thoughts in this caſe ſhould be a grateful Acknowledgment of the Divine Goodneſs.
+<pb n="11" facs="tcp:109935:7"/>And 'tis well done, that we are come here this Day to tell the World, we own our ſelves beholding to God for this Mercy.</p>
+            <p n="3">3. Another Effect and Sign of Thankful<g ref="char:EOLhyphen"/>neſs, is a grateful Return to God for his Mercy.</p>
+            <p>'Tis true, all our Goodneſs extends not to him: He is not the better for any thing we can do for him, or give to him. But yet there is a kind of Requital to be made to God for his Mercies: <hi>What</hi> (ſaith the Pſalmiſt) <hi>ſhall I render unto the Lord for all his Mercies?</hi>
+            </p>
+            <p>It becomes us of theſe Nations therefore to think what we ought to do for God, who hath done ſo much for us. O that the Senſe we have of God's Mercies might appear in the Goodneſs of our Lives! That the bleſſed Effect of this Peace might be a general Repentance and Re<g ref="char:EOLhyphen"/>formation. Let it never be ſaid the better God is to us, the worſe we are to him. When we have Peace on Earth, let us not by our bold Impieties, proclaim War againſt Heaven. When he hath made our Enemies to be at Peace with us, let not us be at Enmity with him.</p>
+            <pb n="12" facs="tcp:109935:8"/>
+            <p>If this be all the fruit of the Peace, 'tis not like to laſt long. If we break the Peace with God, we cannot keep it long with Men. God will never want ways to puniſh us, if we prevent not the Sentence, by a true and timely Reformation.</p>
+            <p>I have now done with the ſecond Thing, the Effects or Expreſſions of true Thankfulneſs.</p>
+            <p>The Third general is the Motives that ſhould induce us to the Exerciſe of this Du<g ref="char:EOLhyphen"/>ty of Thankfulneſs.</p>
+            <p>And firſt we may conſider the Excellency of this Duty. The Text tells us, 'tis a Part of that Honour we owe to God: And conſe<g ref="char:EOLhyphen"/>quently our neglect thereof is a great slight of the Divine Majeſty. <hi>When they knew God,</hi> (ſaith the Apoſtle of the Heathens) <hi>they glo<g ref="char:EOLhyphen"/>rified him not as God.</hi> And God teſtified his Reſentment of this their Ingratitude, by giving them up to the moſt ſtupid Blindneſs. Their Unthankfulneſs to God, (as the Context tells us) made him give them up to their own I<g ref="char:EOLhyphen"/>maginations. May not our Unthankfulneſs for theſe Publick Mercies juſtly yet pro<g ref="char:EOLhyphen"/>voke God to give us up to the Will of our
+<pb n="13" facs="tcp:109935:8"/>Enemies; for certainly it muſt be a much greater fault in us, than it was in them.</p>
+            <p>However 'tis no ſmall Inducement to this Duty, that 'tis one of the moſt acceptable Sa<g ref="char:EOLhyphen"/>crifices we can preſent to God. You may ſee this in the 50th. Pſalm throughout: <hi>I will not</hi> (ſaith God there to <hi>Iſrael</hi>) <hi>reprove thee becauſe of thy Sacrifices, nor for thy Burnt<g ref="char:EOLhyphen"/>offerings, becauſe they were not always before me.</hi> And after ſeveral Verſes to that purpoſe, it follows: <hi>Offer unto God Thanksgiving, and pay thy Vows unto the moſt High, and call upon me in the day of trouble: So will I hear thee, and thou ſhalt glorifie me.</hi> And in the laſt Verſe of the ſame Pſalm, <hi>whoſo offers me Thanks and Praiſe, he honoureth me.</hi>
+            </p>
+            <p>So that when we withhold from God our Thankfulneſs, we rob him of his Honour, a thing he is above all other jealous of. And if we do ſo, he will pay us in our own coin, <hi>Them that honour</hi> him he <hi>will honour,</hi> and <hi>they that deſpiſe him ſhall be as lightly eſteemed.</hi>
+            </p>
+            <p n="2">2. Let us conſider the Equity of this Duty of Thankfulneſs.</p>
+            <p>Common Senſe teaches us Gratitude to our Benefactors. Thoſe that have no Senſe of
+<pb n="14" facs="tcp:109935:9"/>this, are juſtly look'd on by all, as the worſt of Men. If we call a Man ungrateful, we call him all that's bad at once.</p>
+            <p>If this be a Duty we owe to Men, it's much more due to God. It's impoſſible we ſhould be ſo much obliged to any Man in the World as we are to him. There is none that hath been ſo much diſobliged by us, and yet there is none that hath done ſo much for us.</p>
+            <p>And if this be a juſt debt for private Be<g ref="char:EOLhyphen"/>nefits, how much more is it ſo for his publick Mercies? The vaſt Multitude that ſhare in theſe publick Deliverances, lays a new Obli<g ref="char:EOLhyphen"/>gation on every particular Man to a grateful Acknowledgment of God's Favours. There is ſcarce the meaneſt Creature, but will par<g ref="char:EOLhyphen"/>take of the fruits of this Happy Peace: And therefore there is none below the Obligation to exerciſe this Duty of Thankfulneſs.</p>
+            <p n="3">3. Another thing that ought to enhance the rate of God's Mercies in our Eſteem, and make us the more thankful for them, is the Reflection upon our Miſery when we were in want of them.</p>
+            <p>There is nothing that ſo truly teaches us the Worth of things, as the Want of them
+<pb n="15" facs="tcp:109935:9"/>
+               <hi>The full Soul</hi> (ſaith <hi>Solomon) loaths the Honey<g ref="char:EOLhyphen"/>comb; but to the hungry Soul every bitter thing is ſweet.</hi> Thoſe that have long ſmarted under the Hardſhips of War, ſhould in reaſon value the Reſt and Eaſe of Peace. We that have been ſo importunate in our Prayers, ſhould be no leſs ſolemn and devout in our Thankſgivings for it.</p>
+            <p>How reſtleſs and impatient, a while ago, were the Wiſhes of moſt of us for a Peace? How ex<g ref="char:EOLhyphen"/>treamly ſenſible were we of the Miſeries of the War? What mighty Complaints of the burthen of Taxes, of the Dearth of Proviſions, of the De<g ref="char:EOLhyphen"/>cay of Trade?</p>
+            <p>Now we have what we then ſo much wiſht for. We hope in ſome time our Burthens will be eaſed, and Trade will flouriſh; and things go better with us.</p>
+            <p>But ſhall we under theſe Circumſtances; be querulous and uneaſie? Shall we again grow careleſs and negligent? Shall we take the Peace, and enjoy the fruits of it, and never look up to the hand that gives it?</p>
+            <p n="4">4. The pleaſure we ſhall find in the Exer<g ref="char:EOLhyphen"/>ciſe of this Duty, is enough to ingage us to it. <hi>A pleaſant and a joyful thing it is</hi> (ſaith the Pſalmiſt) <hi>to be thankful.</hi> We looſe much of the
+<pb n="16" facs="tcp:109935:10"/>Sweetneſs of the good things we have, when we are unthankful for them.</p>
+            <p>Peace is a mighty Bleſſing, eſpecially after the Hardſhips and Hazards of ſo long a War: And therefore we of theſe Nations have the greater reaſon to be truly thankful for it. But our very Thankfulneſs for it will ſo heighten our Guſt and Reliſh of it, as will much increaſe the Bleſ<g ref="char:EOLhyphen"/>ſing. I doubt not 'tis true of all the things of this World, the trueſt Enjoyment we can have of them, and the higheſt pleaſure we can find in them, is with a thankful Heart to look up to God the Giver of them. They may be ſweet and pleaſant in themſelves, but will have a much better Reliſh when we taſte 'em, as the Effect of God's Bounty. And this is the fourth thing, the Pleaſure we ſhall find in the Exerciſe of this Duty of Thankfulneſs.</p>
+            <p n="5">5. I will add but one thing more by way of Motive, and that is, it is highly our Intereſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be thankful. Thanks is the moſt prevailing way of begging: To be grateful to God for his former Mercies, is the ſureſt way to engage hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to continue and encreaſe them to us.</p>
+            <p>That Tenant that refuſes to pay a ſmall Quit-rent for a great Eſtate, well deſerves to be turn'd
+<pb n="17" facs="tcp:109935:10"/>out of all. This Thankfulneſs, and the ſeaſonable Conſequents of it, are the Subſtance of what God expects, or we can give, in return for his Mercies. And 'tis but a ſmall Acknow<g ref="char:EOLhyphen"/>ledgment this, that he expects, for ſo many, and ſuch mighty Favours.</p>
+            <p>Let us of theſe Nations, think our ſelves ob<g ref="char:EOLhyphen"/>liged in Intereſt, as well as Duty, to make this return for that Publick Peace he now reſtores to us. In ſhort, now we have a Peace, if we have a mind to keep it, let us be thankful for it.</p>
+            <p>But I will not inſiſt longer on theſe things, nor detain you too long from other decent De<g ref="char:EOLhyphen"/>monſtrations of your Joy and Thankfulneſs.</p>
+            <p>Give me leave to cloſe this my Diſcourſe with a ſhort Advice to all Ranks and Degrees of Men.</p>
+            <p>There is a Duty we owe to God the Author of this Peace.</p>
+            <p>There is a Duty we owe to the King, the great Inſtrument of it.</p>
+            <p>There is a Duty we owe to the Publick, and therein to our ſelves.</p>
+            <p n="1">1. To God. Let us admire and adore his Mercy, that he hath not given us over to the Will of our Ene<g ref="char:EOLhyphen"/>mies. That he hath in the midſt of Judgment, remem<g ref="char:EOLhyphen"/>bred
+<pb n="18" facs="tcp:109935:11"/>Mercy. That he hath uſed ſo much Patience and Long-ſuffering, to ſuch a provoking People. That he hath tried once again thoſe milder Me<g ref="char:EOLhyphen"/>thods of Grace and Mercy to us.</p>
+            <p>Now he hath renewed his Mercies to us, let us renew our Obedience to him. Now he hath <hi>delivered us from our Enemies, ſo that we may ſerve him without fear;</hi> let us do it <hi>in Holineſs and Righteouſneſs all the days of our Lives.</hi> As our Saviour adviſes the Man in the Goſpel, let us <hi>go away and ſin no more, leſt a worſe thing come unto us.</hi>
+            </p>
+            <p n="2">2. There is a Duty we owe to the King, the great Inſtrument of this Peace.</p>
+            <p>I ſpeak not now of thoſe common Duties we owe, as good Subjects, to our rightful Sovereign. But I mean ſuch Returns as Gratitude will o<g ref="char:EOLhyphen"/>blige us to make to him, who is under God, our great Benefactor.</p>
+            <p>Let us in our ſeveral Stations ſo behave our ſelves, that the Crown may ſit light and eaſie on his Head. That he as well as we, may find a difference between the Hardſhips of War, and the Quiet and Eaſe of Peace. That he may never have cauſe to repent, the Toils and Hazards to which he has expos'd himſelf to procure the Peace of a reſtleſs and unquiet People.</p>
+            <pb n="19" facs="tcp:109935:11"/>
+            <p n="3">3. There is a Duty we owe to the Publick, and therein to our ſelves.</p>
+            <p>To mind the things that make for Peace, to lay aſide all our Animoſities, to be all of one mind, at leaſt ſo far as to join together in pro<g ref="char:EOLhyphen"/>moting and preſerving the Publick Peace. I be<g ref="char:EOLhyphen"/>lieve moſt ſober Men will think that a legal Eſta<g ref="char:EOLhyphen"/>bliſhment is the beſt and firmeſt Bond of Union, in the Church as well as State. And that it is ſo agreeable to the Will of God, there ſhould be ſuch a one in a Chriſtian Nation, that an honeſt Chriſtian, that lives under it, ſhould not depart from it, unleſs he be very ſure he cannot join with it, without Sin.</p>
+            <p>But if we cannot all exactly agree in our Judgments, thoſe of us that are ſincere on all ſides, ſhould take care there may be as little di<g ref="char:EOLhyphen"/>ſtance as poſſible in our Affections. That our Contentions about Truth, may not be managed to the Prejudice of Peace, ſo as to hinder the Performance of thoſe mutual Duties we owe as Men and Chriſtians, to one another. But above all, that our Differences in the Church, may not embroil the State.</p>
+            <p>How happy were it could we at laſt ſee all factious Sidings both in Church and State, buried
+<pb n="20" facs="tcp:109935:12"/>in perpetual Oblivion: That ſince the generali<g ref="char:EOLhyphen"/>ty of us are united under the Preſent Govern<g ref="char:EOLhyphen"/>ment, and equally pretend to Loyalty to our Pre<g ref="char:EOLhyphen"/>ſent Gracious Soveraign, and hope the Govern<g ref="char:EOLhyphen"/>ment will be ſettled in a Laſting Peace we might layaſide allodious Names of diſtinction, and forget all former Feuds and Animoſities, and our great Contention hence-forward be how we may out-do each other in acting for the Publick Welfare.</p>
+            <p>But above all let Gratitude oblige us all to a real and thorough Reformation, the End of all God's Mercies to us, is to bring us to Obedi<g ref="char:EOLhyphen"/>ence unto him. <hi>Rom. 2. The Goodneſs of God lead<g ref="char:EOLhyphen"/>eth us to Repentance:</hi> And if we be not lead by it, God will interpret it as the Apoſtle there tells us, <hi>as a deſpiſing the riches of his Goodneſs.</hi>
+            </p>
+            <p>This is the only way to make the Peace laſt<g ref="char:EOLhyphen"/>ing and durable.</p>
+            <p>There are three Things very neceſſary to be done by every one of us, if we would promote the Peace and Welfare of the Nation.</p>
+            <p n="1">1. That every one of us take care in the firſt place to reform our ſelves. That publick Re<g ref="char:EOLhyphen"/>formation that is ſo neceſſary to the Eſtabliſhment of our Peace and Happineſs, begin at particular Perſons. 'Tis eaſie to obſerve ſome Men making
+<pb n="21" facs="tcp:109935:12"/>grievous Complaints of the Evil of the Times, and zealous Invectives againſt the Sins of others, while they are negligent enough in reforming their own, and are guilty of as bad, or worſe themſelves. We may ſay to them as the Apoſtle does, <hi>Rom. 2. Thou art inexcuſable, O Man, whoever thou art that judgeſt another, for wherein thou judgeſt another thou condemneſt thy ſelf; for thou that judg<g ref="char:EOLhyphen"/>eſt doſt the fame things.</hi>
+            </p>
+            <p>But it is the part of an honeſt Chriſtian to be moſt ſevere in judging, and moſt forward in reforming of himſelf. He firſt caſts the Beam out of his own Eye, before he pretends to take the Mote out of his Brother's Eye.</p>
+            <p n="2">2. And yet we muſt not neglect in our Sphere and Station to promote the Reformation of o<g ref="char:EOLhyphen"/>thers too. We muſt not ſay with <hi>Cain, Am I my Brother's Keeper?</hi> 'Tis Charity to the Publick, as well as to our Brother, not to ſuffer Sin upon, when we may be inſtrumental to reclaim him.</p>
+            <p>This is a Work more or leſs incumbent on e<g ref="char:EOLhyphen"/>very one of us. There is none of us ſo mean, but we may be more or leſs inſtrumental to the pro<g ref="char:EOLhyphen"/>moting of a general Reformation. If we have no Power and Authority, yet at leaſt by our Advice or Admonition we may do ſomething to make the World better.</p>
+            <pb n="22" facs="tcp:109935:13"/>
+            <p>But this Work of Promoting Reformation, eſpecially incumbent on thoſe in Authority in Church and State. And we would willingly hope the Government will now be at leaſure, to draw the Sword of Juſtice, againſt thoſe worſt Ene<g ref="char:EOLhyphen"/>mies of the State, the reigning Vices and De<g ref="char:EOLhyphen"/>bauchery of the Times.</p>
+            <p>But if this ſhould not be done ſo effectually is it ought to be, 'tis no great wonder: For we find thoſe very good Laws, that have been made for the Diſcouragement of Prophaneneſs, have had but little effect, for want of a due and zealou Execution of them.</p>
+            <p>I would therefore apply my ſelf to you that are Parents and Maſters of Families, that you would at leaſt do what in you lies, to promote the Reformation of thoſe under your Charge This you ought to do, not only by your good Advice and Inſtruction, but by your Power and Authority too.</p>
+            <p>For you muſt know, that God hath not only made you Prieſts in your own Families, to pray for 'em and with 'em, and to inſtruct 'em in their Duty, but a kind of Kings too to keep and con<g ref="char:EOLhyphen"/>ſtrain 'em to it. <hi>I know</hi> Abraham, (ſaith God a that Pious Patriarch) <hi>that he will command his
+<pb n="23" facs="tcp:109935:13"/>Children, and they ſhall keep the Way of the Lord.</hi> When Parents and Maſters not only inſtruct and adviſe, but with that Authority that God hath given 'em, <hi>command their Children and Servants,</hi> 'tis likely <hi>they will keep the Way of the Lord.</hi>
+            </p>
+            <p>And certainly Parents and Maſters, could they be made ſenſible of their Duty in this caſe, might do much towards a general Reformation, by beginning and carrying it on, in their Fami<g ref="char:EOLhyphen"/>lies, thoſe little Kingdoms.</p>
+            <p>And the doing of this, as it would have a migh<g ref="char:EOLhyphen"/>ty Influence towards the Publick Good, ſo 'tis of no leſs Importance to themſelves. I fear the true canſe of the ruin of thouſands of Families, is the negligence of the Governours thereof. In vain do Men toil and drudge to heap up great Eſtates for their Children, while they are ſo very negli<g ref="char:EOLhyphen"/>gent in the Inſtruction and Education of them. Nay, I doubt the want of this, often provokes God to blaſt their Hopes all other ways.</p>
+            <p>A ſad Inſtance we have in the Family of one that was otherwiſe a very good Man, that of Old <hi>Eli.</hi> We read that God denounced the ut<g ref="char:EOLhyphen"/>ter ruine of his whole Family; and the rea<g ref="char:EOLhyphen"/>ſon given is, becauſe his <hi>Sons made themſelves vile, and be reſtrained them not.</hi>
+            </p>
+            <pb n="24" facs="tcp:109935:14"/>
+            <p n="3">3 But if after all that we can do, the World not be amended, there is one thing ſtill in<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bent on the Pious Chriſtian: Not to be all concern'd Spectator of the Vices of the Ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>We read of <hi>Jeremy,</hi> that he mourn'd <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cret for the Pride and Stubborneſs of that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ple: Of <hi>David,</hi> that Rivers of Water<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> down his Eyes, becauſe Men kept not God's Of <hi>Lot,</hi> that his righteous Soul was vexed the filthy Converſation of the Wicked.</p>
+            <p>If there were more of theſe Mourners our <hi>Zion,</hi> we might hope, as God would ſpar'd <hi>Sodom,</hi> if he had found but ten right Perſons in it; That even for their ſake might yet a while, prolong the Peace and quility of theſe otherwiſe ſinful Nations.</p>
+            <p>Well, God is at preſent dealing with us, good Husband-man with the fruitleſs Fig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> He let's us alone a little longer. May he gr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wiſdom, in this our Day of Peace, to co<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and put in practice, to God, the Govern<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and among our ſelves, the things that are quiſite to the Eſtabliſhment of it, and may never be hid from our Eyes.</p>
+            <p>
+               <hi>Now to the God of Peace be all Honour and now and for evermore.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
